@@ -1,0 +1,1 @@
+# QuickSort-ve-BruteForce-Algoritmasinin-Suresi
